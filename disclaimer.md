@@ -12,6 +12,14 @@ Even Xiaomi wouldn't go as far as creating a custom ROM just for you, but I did.
 
 If you're looking for a specific feature like gore, it's easier to switch to a compatible ROM that supports it.
 
+# More
+
+I can only speak for myself. I usually listen to music on Spotify, and the app runs in the background.Battery consumption is a highly personal matter and varies depending on the device and user. 
+
+In my case, I can go through the entire day without needing to recharge, and even when the battery is running low, it holds up well. However, it's essential to note that I'm only speaking from my own experience.
+
+I don't play any mobile games.Things work the way I expect them to.My usage is quite modest, and I don't expect the device to perform like a NASA computer, so I'm satisfied with its performance.
+
 # Personal Notes
 - AOD isn't a bug, actually I've removed this useless feature
 - I don't care about Theme app, you can update or install the version you want
