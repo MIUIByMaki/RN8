@@ -12,7 +12,6 @@
 - Theme app is stable and updated
 - More performance
 - Added more essential stuff and files
-- Minor fixes
 - Added personal Syscripts
 - You can daily drive
 - Included more a review of all the performance/parameters from the previous one
@@ -20,5 +19,6 @@
 - Only for ginkgo for now
 - Super icons and home folder widgets available by default
 - New welcome wallpaper
-- Android stock screen recorder
+- Android stock screen record
 - Open and close apps is now more faster
+- Minor fixes
