@@ -26,6 +26,7 @@
 # Note:
 - MIUI Launcher with features you can find on Maki.CN ID1900
 - The version present on Plus is more stable af, that's why it's on Plus
+- [Moe kernel](https://t.me/MoeNOfficial) as my suggestion ;)
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
