@@ -22,9 +22,8 @@
 - Improvement for gestures
 - More features on Video toolbox
 - Read the notes below
-
-Download and install the APK directly. 
  
+
 # Notes:
 
 - ### Magisk is optional
