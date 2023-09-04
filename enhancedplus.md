@@ -23,6 +23,10 @@
 - Open and close apps is now more faster
 - Minor fixes
 
+# Note:
+- MIUI Launcher with features you can find on Maki.CN ID1900
+- The version present on Plus is more stable af, that's why it's on Plus
+
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
 
