@@ -3,7 +3,6 @@
  
 ![Image](https://telegra.ph/file/8b15edddb7885ee393ada.png)
 
- 
 
 ### What's the difference?
 - [Included V1.0 implementations](https://telegra.ph/MakiCN-145-Enhanced-08-31)
@@ -16,7 +15,7 @@
 - You can daily drive
 - Included more a review of all the performance/parameters from the previous one
 - Firmware updated included
-- 5ghz available (please, check)
+- 5GHz available (please, check)
 - Only for ginkgo for now
 - Super icons and home folder widgets available by default
 - New welcome wallpaper
