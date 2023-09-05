@@ -26,7 +26,7 @@
 # Note:
 - MIUI Launcher with features you can find on Maki.CN ID1900
 - The version present on Plus is more stable af, that's why it's on Plus
-- [Moe kernel](https://t.me/MoeNOfficial) as my suggestion ;)
+- [Moe kernel](https://t.me/MoeNOfficial) as my suggestion. Flash by your own responsability. ;)
 - If you cannot use super icons, apply any gore theme, just install any Theme app [update](https://t.me/MiuiSystemUpdates) update, just try ;)
 
 # Flash Guide
