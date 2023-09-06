@@ -1,4 +1,4 @@
-# Enhanced Plus v1.1
+# Enhanced Plus v1.2
 
 - Private CHNLG
 
