@@ -7,6 +7,7 @@
 - More changes in init
 - Adjusts for alien lang
 - Firmware not included
+- Aimed to performance
 - More and more
 - Minor fixes
 
