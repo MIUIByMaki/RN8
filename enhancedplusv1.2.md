@@ -35,6 +35,7 @@
 # Extra:
 - If KSU version don't boot, just flash stock kernel version, then flash KSU Moe.
 - Do you want the launcher features? Check previous changelog credits.
+- Can't apply your gore theme? Try [MIUI MTZ app](google.com)
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
