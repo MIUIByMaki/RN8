@@ -11,6 +11,7 @@
 - Edited Permissions
 - Added init permissions
 - Opening and close apps is now more smooth/faster
+- Aimed to performance
 - Minor review and fixes
 * ### Dirty flash not tested
 * ### Ginkgo only
@@ -33,6 +34,7 @@
 
 # Extra:
 - If KSU version don't boot, just flash stock kernel version, then flash KSU Moe.
+- Do you want the launcher features? Check previous changelog credits.
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
