@@ -12,8 +12,8 @@
 - Added init permissions
 - Opening and close apps is now more smooth/faster
 - Minor review and fixes
-- Dirty flash not tested
-- Ginkgo only
+* ### Dirty flash not tested
+* ### Ginkgo only
 
 # Maki.CN User Responsibility Agreement
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/extra.md)
