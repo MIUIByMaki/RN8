@@ -31,6 +31,9 @@
 
 - To further optimize battery consumption, it is advisable to consider the use of apps or power management modules or adjust the power-saving settings on your device.
 
+# Extra:
+- If KSU version don't boot, just flash stock kernel version, then flash KSU Moe.
+
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
 
