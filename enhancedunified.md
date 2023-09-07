@@ -18,6 +18,7 @@
 - Regarding notifications, please refer to the previous message as it contains helpful information.
 If you're using a modified app like WhatsApp mods or if your battery is running low while restoring meme backups, it's advisable to prioritize charging your battery first. Additionally, remember to manually configure all necessary permissions and notifications.
 - If you have any question or need more information, I recommend that you take some time to read the usage documentation for Maki.CN in this repository. Stop asking questions that have already been explicitly included in the notes and learn to read carefully.
+- Remember, if you want a specific version of any meme app, just install manually like the gore theme app. Go to [System Updates by Xiaomiui](https://t.me/MiuiSystemUpdates)
 
 ## Battery Consumption Tests:
 
