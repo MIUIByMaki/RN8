@@ -37,6 +37,9 @@ If you're using a modified app like WhatsApp mods or if your battery is running 
 - Willow not tested
 - KernelSU compatible [Moe](https://t.me/MoeNOfficial)
 
+# How to use volume & brightness bar?
+- [Easy, read it](https://telegra.ph/MakiCN-145-Enhanced-08-31)
+
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
 - You only do a 'Format Data' when the memory is encrypted, not at the beginning of every installation. Please read the installation guide.
