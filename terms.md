@@ -1,9 +1,9 @@
 # English
-## MIUI BY MAKI TERMS OF USE AND RESPONSIBILITY
+## MIUI BY MAKI / Maki Projects TERMS OF USE AND RESPONSIBILITY
 
-Please read the following terms of use and responsibility carefully before using this custom ROM ("the ROM MIUI By Maki - Maki.CN"). The use of the ROM implies acceptance of these terms and agreement to the following responsibilities:
+Please read the following terms of use and responsibility carefully before using this custom ROM ("the ROM MIUI By Maki - Maki.CN - Including Maki Projects"). The use of the ROM implies acceptance of these terms and agreement to the following responsibilities:
 
-# 1. Maki.CN (MIUI By Maki) ROM Features:
+# 1. Maki.CN (MIUI By Maki/Maki Projects) ROM Features:
 
 1.1. The ROM is provided "as is" and "as available." We do not guarantee that all features will work flawlessly on all devices. The performance and stability of the ROM may vary depending on the hardware and specific device configurations.
 
@@ -17,7 +17,7 @@ Please read the following terms of use and responsibility carefully before using
 
 # 3. Failure to Follow Guides:
 
-3.1. I'ts recommend following the installation and configuration [guides](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide) provided for the ROM. Failure to adhere to the provided instructions may result in problems during the installation and use of the ROM.
+3.1. I'ts recommend following the installation and configuration [guides](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide) provided for the ROM. Failure to adhere to the provided instructions may result in problems during the installation and use of the ROM. For MakiUI, there's a [specific flash guide](https://telegra.ph/Flash-Guide---MakiUI-08-12).
 
 3.2. I am not responsible for any damage to your device caused by non-compliance with the installation and configuration guides.
 
@@ -35,49 +35,5 @@ Please read the following terms of use and responsibility carefully before using
 
 By using this custom ROM, you agree to comply with these terms of use and take full responsibility for the outcomes of using the ROM on your device.
 
-If you do not agree to these terms, please do not install or use the custom ROM.
-
-
-# Português
-
-## TERMOS DE USO E RESPONSABILIDADE DA MIUI BY MAKI
-
-Por favor, leia cuidadosamente os seguintes termos de uso e responsabilidade antes de usar esta ROM personalizada ("a ROM MIUI By Maki - Maki.CN"). O uso da ROM implica na aceitação destes termos e na concordância com as responsabilidades a seguir:
-
-# 1. Recursos da ROM:
-
-1.1. A ROM é fornecida "como está" e "conforme disponível". Não garantimos que todos os recursos funcionarão perfeitamente em todos os dispositivos. O desempenho e a estabilidade da ROM podem variar de acordo com o hardware e as configurações específicas do dispositivo.
-
-1.2. Você entende que a ROM pode conter erros, bugs ou problemas que podem afetar o funcionamento do seu dispositivo. Não somos responsáveis por quaisquer danos causados ao seu dispositivo devido ao uso da ROM.
-
-# 2. Kernel:
-
-2.1. A ROM pode incluir um kernel personalizado. Alterações no kernel podem afetar o desempenho, a segurança e a estabilidade do seu dispositivo. Certifique-se de fazer backup do seu dispositivo antes de instalar a ROM.
-
-2.2. Não sou responsável por quaisquer problemas que possam surgir devido ao uso do kernel personalizado incluído na ROM.
-
-# 3. Não seguir os guias:
-
-3.1. Recomendo seguir os [guias](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide) de instalação e configuração fornecidos para a ROM. O não cumprimento das instruções fornecidas pode resultar em problemas durante o processo de instalação e uso da ROM.
-
-3.2. Não somos responsáveis por quaisquer danos causados ao seu dispositivo devido à não conformidade com os guias de instalação e configuração.
-
-# 4. Não ler as notas e aceitar modificações:
-
-4.1. Periodicamente, podem ser lançadas atualizações ou modificações na ROM. É importante ler as notas de versão e entender as modificações antes de atualizar a ROM.
-
-4.2. Ao aceitar as modificações e atualizar a ROM, você reconhece que está ciente das mudanças e assume a responsabilidade por quaisquer problemas que possam surgir como resultado da atualização.
-
-# 5. Isenção de Responsabilidade:
-
-5.1. O uso desta ROM é por sua conta e risco. Não sou responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais relacionados ao uso da ROM.
-
-5.2. Não garantimos que a ROM seja livre de erros ou que atenda a todas as suas expectativas ou requisitos.
-
-Ao usar esta ROM personalizada, você concorda em cumprir estes termos de uso e assume total responsabilidade pelos resultados do uso da ROM no seu dispositivo.
-
-Se você não concordar com estes termos, por favor, não instale ou utilize a ROM personalizada.
-
-
-
+If you do not agree to these terms, please do not install or use any of the Maki Projects ROMs.
 
