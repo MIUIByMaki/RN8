@@ -1,4 +1,3 @@
-# English
 ## MIUI BY MAKI / Maki Projects TERMS OF USE AND RESPONSIBILITY
 
 Please read the following terms of use and responsibility carefully before using this custom ROM ("the ROM MIUI By Maki - Maki.CN - Including Maki Projects"). The use of the ROM implies acceptance of these terms and agreement to the following responsibilities:
