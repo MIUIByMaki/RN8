@@ -38,7 +38,7 @@ If you're using a modified app like WhatsApp mods or if your battery is running 
 - KernelSU compatible [Moe](https://t.me/MoeNOfficial)
 
 # How to use volume & brightness bar?
-- [Easy, read it](https://telegra.ph/MakiCN-145-Enhanced-08-31)
+- [Easy, read it](https://telegra.ph/MakiCN-145-Enhanced-08-31) & [here](https://t.me/iamakima/1193)
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
