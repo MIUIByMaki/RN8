@@ -13,7 +13,6 @@
 - Added modified gore Theme app (@kashis_cringey_stuffs)
 - Minor fixes and adjusts
 * ### Dirty flash not tested
-* ### Ginkgo only
 
 # Maki.CN User Responsibility Agreement
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/extra.md)
