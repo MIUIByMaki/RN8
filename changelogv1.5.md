@@ -36,6 +36,7 @@ All the Notes, Terms, Tips, Disclaimer, Flash Guide you can find it on this [Git
 - Do you want the launcher features? Check previous changelog credits.
 - Can't apply your gore theme? Try [MIUI MTZ app](google.com)
 - Missing any alien string lang? Contact Xiaomi
+- You know, it's interesting how/weird people can be quite unpredictable. I've observed comments from users who've invested in other projects, mentioning issues like, "Oh, there are so many bugs," "Bluetooth connectivity problems," and "Frequent soft reboots...". But then, when someone tries out my project, they end up complaining about a frustrating absence of a fucking language option in a MIUI CN-based version and strangely prefer to use a version with known bugs instead. It's something I just can't comprehend.
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
