@@ -1,6 +1,21 @@
-* 
+# Maki.CN v1.5 Enhanced Plus
+
+- v1.5 patch
+- Disabled Mi Secure Keyboard
+- Gboard as system default
+- Tweaks reviewed
+- Removed more useless stuff
+- More improvement for battery save
+- Added more meme langs strings
+- Added new Control Center UI - (@DevilNoobIN)
+- Added MIUI Launcher from Xiaomi.eu
+- Widgets section available
+- Added modified gore Theme app (@kashis_cringey_stuffs)
+- Minor fixes and adjusts
 * ### Dirty flash not tested
 * ### Ginkgo only
+
+All the Notes, Terms, Tips, Disclaimer, Flash Guide you can find it on this [Git repo](https://github.com/MIUIByMaki/RN8).
 
 # Maki.CN User Responsibility Agreement
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/extra.md)
@@ -21,6 +36,7 @@
 # Extra:
 - Do you want the launcher features? Check previous changelog credits.
 - Can't apply your gore theme? Try [MIUI MTZ app](google.com)
+- Missing any alien string lang? Contact Xiaomi
 
 # Flash Guide
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/flashguide.md#flash-guide)
