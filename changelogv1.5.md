@@ -15,12 +15,12 @@
 * ### Dirty flash not tested
 * ### Ginkgo only
 
-All the Notes, Terms, Tips, Disclaimer, Flash Guide you can find it on this [Git repo](https://github.com/MIUIByMaki/RN8).
-
 # Maki.CN User Responsibility Agreement
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/extra.md)
 
 # Notes:
+All the Notes, Terms, Tips, Disclaimer, Flash Guide you can find it on this [Git repo](https://github.com/MIUIByMaki/RN8).
+
 ## Battery Consumption Tests:
 
 - It is expected that the battery power consumption will show a slight decrease, provided that the device is configured properly. For example, turning off the internet connection, closing background apps, and enabling battery-saving mode when going to sleep are good practices. (Those who own a Ginkgo device always follow these measures, right? Or are you an exception?);
