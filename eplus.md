@@ -4,7 +4,7 @@
 - Everything from previous patches
 - Personal based
 - Security with all feature unlocked available - (@SatanModss)
-- Added more (more than 50) lang support
+- Added [more](https://t.me/makishots/97) (more than 50) lang support
 - Added more meme langs strings
 - Added AppVault Modded - (@SatanModss)
 - New locksreen clock (like A13) available - (The real thanks: @MMETMA2)
