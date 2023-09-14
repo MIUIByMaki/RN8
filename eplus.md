@@ -1,13 +1,22 @@
-# Maki.CN 
--
--
--
--
--
--
--
+# Maki.CN v2.0 EPlus
 
-* ### Dirty flash not tested
+- v2.0 patch
+- Everything from previous patches
+- Personal based
+- Security with all feature unlocked available - (@SatanModss)
+- Added more (more than 50) lang support
+- Added more meme langs strings
+- Added AppVault Modded - (@SatanModss)
+- New locksreen clock (like A13) available - (The real thanks: @MMETMA2)
+- Improvements for Color Scheme
+- Added MakiTweaks
+- Added more missing overlays
+- You can apply your gore theme
+- Lot of others minor fixes, can't remember
+- All gore widgets available
+- Removed more useless stuff
+- More improvement for battery save
+- ### Dirty flash not tested
 
 # Maki.CN User Responsibility Agreement
 - [Take a time to read it](https://github.com/MIUIByMaki/RN8/blob/main/extra.md)
@@ -42,5 +51,5 @@
 - [Support](https://github.com/MIUIByMaki/Support/tree/main)
 
 - # Download
-- [Pling](https://www.pling.com/p/1956242) - # ID---- V----
+- [Pling](https://www.pling.com/p/1956242) - # ID0817 V2.0
 - [TERMS OF USE AND RESPONSIBILITY](https://github.com/MIUIByMaki/RN8/blob/main/terms.md)
